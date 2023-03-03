@@ -1,5 +1,5 @@
 # EDK2 UEFI Firmware For Snapdragon 835 (msm8998)
-
+ 
 - A broken but working EDK2 implementation for Snapdragon 835 platform.
 
 - 中国人请看中文版
